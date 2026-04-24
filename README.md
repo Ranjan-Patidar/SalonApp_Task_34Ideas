@@ -29,8 +29,9 @@ Follow these steps to run the application locally on your machine:
    ```bash
    npm install
 Start the Development Server: Wait for dependencies to finish, then execute:
- ```bash
-   npm run dev
+
+ --->  npm run dev
+ 
 - Access the App: Usually, Vite will serve the web application at http://localhost:5173.
 
 ## How to Run the Mobile App Project 
@@ -40,8 +41,8 @@ Follow these steps to run the application locally on your machine:
    ```bash
    npm install
 Start the Development Server: Wait for dependencies to finish, then execute:
-```bash
-   npm run android
+
+  --->   npm run android
 
 ###################################################################################################################################################################
 ### Role-Based Access Control (RBAC) Architecture ###
